@@ -1,0 +1,133 @@
+
+
+.body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+}
+.container{
+    min-height: 100vh;
+    background-color: rgb(233, 236, 236);
+}
+.facebook{
+    margin-left: 22%;
+    padding-top: 151;
+    font-size: 52.4px;
+    font-family: inherit;
+    color: blue;
+}
+.text1{
+    margin-left: 259.1px;
+padding-top: 21px;
+font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+font-size: 28px;
+font-weight: normal;
+line-height: 32px;
+width: 500px;
+}
+.form1{
+    margin-top: -85.3;
+    padding-left: 908;
+    
+}
+.phone{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+}
+.password{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+}
+.age{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+}
+.login{
+
+}
+.log{
+    background-color: #1877f2;
+border: none;
+border-radius: 6px;
+font-size: 20px;
+line-height: 48px;
+padding: 0 16px;
+width: 332px;
+color: azure;
+}
+.login1{
+
+}
+.log2{
+    background-color: #08991c;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+    color: azure;
+    
+}
+.create{
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+font-size: 14px;
+font-weight: 600;
+margin-top: 12;
+}
+.footer{
+    width:100%;
+    height:80px;
+	background:black;
+    position:absolute;
+	left:0px;
+	top: 730px;
+}
+
+.FooterContent-FirstPart{
+    width: 90%;
+    height:20px;
+    position:absolute;
+	top:17px;
+	left:80px;
+	color:rgb(113, 118, 123);
+    font-size: 13px;
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.FooterContent-Text1{
+    text-decoration: none;
+    color:rgb(113, 118, 123);
+}
+
+.FooterContent-Text1:hover{
+    cursor:pointer;
+    text-decoration: underline;
+}
+
+.FooterContent-CopyrightPart{ 
+    width: 8%;
+    height:20px;
+    position:absolute; 
+	top: 43px;
+    left: 676px;
+	color:rgb(113, 118, 123);
+    font-size: 13px;
+    font-family: facebook, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+} 
+
+.FooterContent-Text2{
+    text-decoration: none;
+    cursor:default;
+    color:rgb(113, 118, 123);
+}
